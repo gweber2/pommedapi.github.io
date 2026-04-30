@@ -40,6 +40,7 @@ body{ margin:0; padding:0;  }
 .ct-right{ float: right; width: 750px; color: #333;}
 .ct-right p {font-family: 'Satisfy', cursive; font-size:20px;}
 .ct-left h2{border-bottom: solid 1px #e31818;line-height: 41px;margin: 16px 0px 0px 0px;padding-left: 25px;font-size: 21px;}
+.ct-left h2 a{display: block;color: #e31818;}
 ul.submenu li{font-size: 20px;line-height: 50px;border-bottom: 1px solid #000;padding: 1px 0px 0px 25px;background: url(../images/apple-fill.png) no-repeat 0px center;background-size: 16px 14px;}
 ul.submenu li a{color: #000;}
 ul.submenu li.selected a{ color:#e31818 }
